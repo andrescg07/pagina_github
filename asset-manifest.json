@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pagina_github/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pagina_github/static/js/main.5357dd4a.chunk.js",
+    "main.js.map": "/pagina_github/static/js/main.5357dd4a.chunk.js.map",
+    "runtime-main.js": "/pagina_github/static/js/runtime-main.ba1e9afa.js",
+    "runtime-main.js.map": "/pagina_github/static/js/runtime-main.ba1e9afa.js.map",
+    "static/js/2.19bbb867.chunk.js": "/pagina_github/static/js/2.19bbb867.chunk.js",
+    "static/js/2.19bbb867.chunk.js.map": "/pagina_github/static/js/2.19bbb867.chunk.js.map",
+    "static/js/3.913d8432.chunk.js": "/pagina_github/static/js/3.913d8432.chunk.js",
+    "static/js/3.913d8432.chunk.js.map": "/pagina_github/static/js/3.913d8432.chunk.js.map",
+    "index.html": "/pagina_github/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pagina_github/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.19bbb867.chunk.js.LICENSE.txt": "/pagina_github/static/js/2.19bbb867.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pagina_github/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba1e9afa.js",
+    "static/js/2.19bbb867.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5357dd4a.chunk.js"
+  ]
+}
